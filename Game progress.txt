@@ -1,0 +1,9 @@
+part 1 movement: CHECK
+part 2 shooting: CHECK 
+part 3 enemies: CHECK 
+part 4 background/tiles&views: CHECK 
+part 5 Text: CHECK 
+part 6 Audio:CHECK
+part 7 title screen: CHECK
+part 8 spawners: CHECK
+
